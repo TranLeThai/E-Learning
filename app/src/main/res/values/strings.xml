@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="default_web_client_id">890709957028-rpfirujf9imqpjmnajn3aphfn7de35kk.apps.googleusercontent.com</string>
+
+    <!-- ProfileFragment strings -->
+    <string name="profile_name_example">Alex Developer</string>
+    <string name="profile_level_example">Level: Advanced (C1)</string>
+    <string name="profile_saved_words_example">520</string>
+    <string name="profile_streak_example">15 Days</string>
+    <string name="profile_avatar_desc">Avatar người dùng</string>
+    <string name="profile_logged_out">Đã đăng xuất</string>
+
+    <!-- Roadmap strings -->
+    <string name="roadmap_node_icon_desc">Roadmap node icon</string>
+    <string name="roadmap_node_title_default">Node title</string>
+    <string name="roadmap_node_desc_default">Short description</string>
+    <string name="roadmap_node_status_locked">Locked</string>
+</resources>
